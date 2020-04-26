@@ -1,0 +1,51 @@
+header{
+	background-color:#C0C0C0;
+	
+}
+h1{
+   	color:#000000;
+   	text-transform: uppercase;
+    text-align: centre;
+}
+h2{
+	color:#0000FF;
+		text-transform: uppercase;
+    text-align: centre;
+	}
+section {
+	background-color: #A9A9A9; /* DarkGray */
+}
+/* a
+	/* unvisited link */
+a:link {
+  color:#F08080 ;
+  text-align: center;
+ background-color: #D3D3D3; /* LightGray */
+}
+
+
+/* visited link */
+a:visited {
+  color:#808000;
+  text-align: center;
+	background-color: #D3D3D3; /* LightGray */
+}
+
+/* mouse over link */
+a:hover {
+  color:#00FF00;
+  text-align: center;
+	background-color: #D3D3D3; /* LightGray */
+}
+
+
+/* selected link */
+a:active {
+  color:#FFFF00;
+  text-align: center;
+	background-color: #D3D3D3; /* LightGray */
+}
+
+img{
+  display:none;
+}
